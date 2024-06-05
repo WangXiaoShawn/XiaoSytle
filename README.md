@@ -2,7 +2,7 @@
 Ecommerce by Django
 ## Setting Up a Development Environment:
 pip install -r requirements.txt
-## Set the peojetc ：
+## Set the peoject ：
 Create a .env file in the 'Xiao' directory and fill in the following fields:
 
 SECRET_KEY=
@@ -14,7 +14,7 @@ Explanation: When set to True, the application will display detailed error pages
 EMAIL_HOST=
 Explanation: This is the address of the email server that will be used to send emails from your application.
 
-EMAIL_PORT=587
+EMAIL_PORT=
 Explanation: This is the port used by the email server for outgoing mail, typically used for TLS encryption.
 
 EMAIL_HOST_USER=
