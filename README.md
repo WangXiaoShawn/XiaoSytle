@@ -1,8 +1,10 @@
 # XiaoSytle
 Ecommerce by Django
+
 ## Setting Up a Development Environment:
 pip install -r requirements.txt
-## Set the peoject ：
+
+## Set the Project:
 Create a .env file in the 'Xiao' directory and fill in the following fields:
 
 SECRET_KEY=
@@ -25,3 +27,7 @@ Explanation: This is the password corresponding to the email host user. It shoul
 
 EMAIL_USE_TLS=
 Explanation: This indicates that TLS (Transport Layer Security) should be used when connecting to the email server, which enhances security.
+
+## Watch the YouTube Video Tutorial:
+<iframe width="560" height="315" src=https://www.youtube.com/watch?v=qSkVLSqW5Wo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
