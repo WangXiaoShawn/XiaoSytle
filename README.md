@@ -29,5 +29,10 @@ EMAIL_USE_TLS=
 Explanation: This indicates that TLS (Transport Layer Security) should be used when connecting to the email server, which enhances security.
 
 ## Watch the YouTube Video Tutorial:
-<iframe width="560" height="315" src=https://www.youtube.com/watch?v=qSkVLSqW5Wo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/qSkVL5qW5Wo/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
 
