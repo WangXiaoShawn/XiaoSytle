@@ -1,5 +1,8 @@
 # XiaoSytle
 Ecommerce by Django
+## Watch the demo:
+[![Ecommerce_XiaoStyle](https://res.cloudinary.com/marcomontalbano/image/upload/v1724291960/video_to_markdown/images/youtube--qSkVLSqW5Wo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=qSkVLSqW5Wo "Ecommerce_XiaoStyle")
+
 
 ## Setting Up a Development Environment:
 pip install -r requirements.txt
@@ -28,6 +31,5 @@ Explanation: This is the password corresponding to the email host user. It shoul
 EMAIL_USE_TLS=
 Explanation: This indicates that TLS (Transport Layer Security) should be used when connecting to the email server, which enhances security.
 
-## Watch the YouTube Video Tutorial:
-[![Ecommerce_XiaoStyle](https://res.cloudinary.com/marcomontalbano/image/upload/v1724291960/video_to_markdown/images/youtube--qSkVLSqW5Wo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=qSkVLSqW5Wo "Ecommerce_XiaoStyle")
+
 
