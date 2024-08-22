@@ -29,10 +29,5 @@ EMAIL_USE_TLS=
 Explanation: This indicates that TLS (Transport Layer Security) should be used when connecting to the email server, which enhances security.
 
 ## Watch the YouTube Video Tutorial:
-[![Watch the video](https://img.youtube.com/vi/qSkVL5qW5Wo/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
+[![Ecommerce_XiaoStyle](https://res.cloudinary.com/marcomontalbano/image/upload/v1724291960/video_to_markdown/images/youtube--qSkVLSqW5Wo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=qSkVLSqW5Wo "Ecommerce_XiaoStyle")
 
